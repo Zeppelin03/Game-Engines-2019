@@ -21,6 +21,7 @@ public class MeshGenerator : MonoBehaviour
 
 
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -87,6 +88,7 @@ public class MeshGenerator : MonoBehaviour
         }
     }
 
+
     void UpdateMesh()
     {
         mesh.Clear();
@@ -98,7 +100,7 @@ public class MeshGenerator : MonoBehaviour
         mesh.RecalculateNormals();
     }
 
-    /*private void OnDrawGizmos()
+    private void OnDrawGizmos()
     {
         if(vertices == null)
             return;
@@ -107,5 +109,5 @@ public class MeshGenerator : MonoBehaviour
         {
             Gizmos.DrawSphere(vertices[i], .1f);
         }
-    }*/
+    }
 }
