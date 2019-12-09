@@ -21,12 +21,14 @@ public class MeshGenerator : MonoBehaviour
 
 
 
-
     // Start is called before the first frame update
     void Start()
     {
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
+
+        MeshCollider meshCollider = gameObject.AddComponent<MeshCollider>();
+        meshCollider.sharedMesh = mesh;
 
         CreateShape();
         UpdateMesh();
@@ -102,9 +104,9 @@ public class MeshGenerator : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        if(vertices == null)
+        if (vertices == null)
             return;
-        
+
         for (int i = 0; i < vertices.Length; i++)
         {
             Gizmos.DrawSphere(vertices[i], .1f);

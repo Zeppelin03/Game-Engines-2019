@@ -63,7 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs" />
-    <Compile Include="Assets\Scripts\ColourChanger.cs" />
     <Compile Include="Assets\Scripts\ColourTerrain.cs" />
     <Compile Include="Assets\Scripts\MeshGenerator.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
