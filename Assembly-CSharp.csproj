@@ -63,8 +63,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs" />
+    <Compile Include="Assets\Scripts\ColourChanger.cs" />
+    <Compile Include="Assets\Scripts\ColourTerrain.cs" />
     <Compile Include="Assets\Scripts\MeshGenerator.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\TerrainColour.cs" />
     <Compile Include="Assets\Scripts\TerrainGeneration.cs" />
     <None Include="Assets\FirstPersion AIO Pack\README.txt" />
     <Reference Include="Unity.Timeline.Editor">
