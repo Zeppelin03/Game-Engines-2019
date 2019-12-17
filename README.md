@@ -25,7 +25,7 @@ I researched many different versions of mesh generration and terrain generation 
 - Mesh Generation: https://www.youtube.com/watch?v=eJEpeUH1EMg&list=PL3n1Crnx7RXcoN3AD--Tx4u9HBO4BmH5B&index=12&t=523s
 - Particle System: https://www.raywenderlich.com/138-introduction-to-unity-particle-systems
 - Colour Changer: https://www.youtube.com/watch?v=5OxmXaeAx2g
-
+- Music: https://www.youtube.com/watch?v=ZAcDOuPxMyQ
 
 
 **Development Plan**
