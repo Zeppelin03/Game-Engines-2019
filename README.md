@@ -4,8 +4,14 @@ Student ID - C17478586
 
 **Desription**
 
-For my assignment I greated a procduial mesh terrian which changes the colour of that mesh material based on the music playing.
-I have also added a particle sytstem to add snow to the scene.
+For my assignment I created a procduial mesh terrian which is generated at launch. The colour of the mesh materila which changes based on the music playing. I have also added a particle sytstem which adds snow falling from the sky to the scene.
+
+
+**Controls**
+- wasd / arrows	- movement
+-	hold shift		- enable fast movement mode
+-	right mouse  	- enable free look
+-	mouse			- free look / rotation
 
 
 
