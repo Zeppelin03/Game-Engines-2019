@@ -4,7 +4,7 @@ Student ID - C17478586
 
 **Desription**
 
-For my assignment I created a procduial mesh terrian which is generated at launch. The colour of the mesh materila which changes based on the music playing. I have also added a particle sytstem which adds snow falling from the sky to the scene. I added a free moving camera to allow you to fly around the world to view the terrain.
+For my assignment I created a procedural mesh terrian which is generated at launch. The colour of the mesh material changes thorughout the experience based on the music playing. I have also added a particle sytstem which adds snow falling from the sky to the scene along with a free moving camera to allow you to fly around the world to view the terrain.
 
 
 **Controls**
@@ -17,7 +17,7 @@ For my assignment I created a procduial mesh terrian which is generated at launc
 
 
 **Development Process**
-I researched many different versions of mesh generration and terrain generation and using what I had learned from this and what we had coverd in lectures I created my own version adding in a colour changer to mesh material.
+I researched many different versions of mesh generration / terrain generation and using what I had learned from these vidoe along with what we had coverd in lectures I created my own version adding in a colour changer to mesh material.
 
 
 
