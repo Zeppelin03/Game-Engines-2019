@@ -12,8 +12,8 @@ I have also added a particle sytstem to add snow to the scene.
 
 
 **Links to Inspiration**
-1.Mesh Generation: https://www.youtube.com/watch?v=eJEpeUH1EMg&list=PL3n1Crnx7RXcoN3AD--Tx4u9HBO4BmH5B&index=12&t=523s
-1.Particle System: https://www.raywenderlich.com/138-introduction-to-unity-particle-systems
-1.Colour Changer: https://www.youtube.com/watch?v=5OxmXaeAx2g
+- [x]Mesh Generation: https://www.youtube.com/watch?v=eJEpeUH1EMg&list=PL3n1Crnx7RXcoN3AD--Tx4u9HBO4BmH5B&index=12&t=523s
+- [x]Particle System: https://www.raywenderlich.com/138-introduction-to-unity-particle-systems
+- [x]Colour Changer: https://www.youtube.com/watch?v=5OxmXaeAx2g
 
 
