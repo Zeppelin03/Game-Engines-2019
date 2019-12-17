@@ -29,12 +29,11 @@ public class ColourTerrain : MonoBehaviour
         }
         else if (instance != this)
         {
-            Debug.Log("Duplicated MusicAnalyzer gameObject was removed.");
+            Debug.Log("gameObject not set.");
             Destroy(this.gameObject);
         }
     }
 
-    // Use this for initialization
     void Start()
     {
         audio = GetComponent<AudioSource>();
@@ -44,7 +43,6 @@ public class ColourTerrain : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
         AnalyzeMusic();
