@@ -16,4 +16,10 @@ I have also added a particle sytstem to add snow to the scene.
 - Particle System: https://www.raywenderlich.com/138-introduction-to-unity-particle-systems
 - Colour Changer: https://www.youtube.com/watch?v=5OxmXaeAx2g
 
+**Development Plan**
+- Learn how to create a mesh generator
+- Experiment with mesh generator
+- Add particle system
+- Polish of the project and get ready to submit and demo
+
 
