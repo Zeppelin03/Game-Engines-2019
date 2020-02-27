@@ -21,7 +21,7 @@ I researched many different versions of mesh generration / terrain generation an
 
 ### **View On Youtube**
 
-[![YouTube](http://img.youtube.com/vi/I0Z091x4M2A/0.jpg)](https://www.youtube.com/watch?v=I0Z091x4M2A)
+[![YouTube](http://img.youtube.com/vi/I0Z091x4M2A/1.jpg)](https://www.youtube.com/watch?v=I0Z091x4M2A)
 
 
 
